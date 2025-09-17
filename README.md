@@ -35,4 +35,4 @@ $ node encrypt_accounts.mjs
 2. Now run the 'create_droprules_report_v3.mjs' script to generate your report into the "droprules_report.csv" file:
 $ node create_droprules_report_v3.mjs   
 
-How do you see your data? Go to your project folder and open up the "droprules_report.csv" file.
+Where do I find my data? Go to your project folder and open up the "droprules_report.csv" file.
